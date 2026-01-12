@@ -2,7 +2,7 @@
 
 ## 🔗 Live Interactive Dashboard
 👉 **View Live Dashboard:**  
-https://github.com/chaudharibhushan2040/POWER-BI_Hospital_Analysis_Dashboard
+[https://github.com/chaudharibhushan2040/POWER-BI_Hospital_Analysis_Dashboard](https://chaudharibhushan2040.github.io/POWER-BI_Hospital_Analysis_Dashboard/)
 ---
 
 ## 📌 Project Overview
@@ -146,4 +146,5 @@ POWER-BI_Hospital_Analysis_Dashboard/
 
 🔗 LinkedIn: https://linkedin.com/in/bhushan-chaudhari-958945264  
 📂 GitHub: https://github.com/chaudharibhushan2040
+
 
